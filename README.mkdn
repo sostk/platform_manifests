@@ -2,10 +2,6 @@
 Droid OS Marshmallow Source 2016
 ===================
 
-
-[Join the Resurrection Remix Team](http://forum.resurrectionremix.com/index.php?topic=2037.new#new)
-
-Getting Started
 How To Build DROID OS ROM for your device - Tutorial
 --------
 
@@ -77,15 +73,15 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 ###Building
 - Preparing Required Binaries and Device Drivers
 - Setting Up CCache (Optional)
-- Building Resurrection Remix
+- Building Droid OS
 
 Congratulations on the succesfull build initialization! Now, we shall go ahead and prepare to build for your device!
 
-##### Preparing Resurrection Remix ROM for devices
+##### Preparing Droid OS ROM for devices
 - Follow the AOSP Porting Instructions stated here to prepare the proprietary files for building for your device: (http://xda-university.com/as-a-developer/porting-aosp-roms-using-source-code)
 
 ##### Setting Up CCache
-- CCache is a method of utilizing a specified storage space to speed up building. It can be referred to as the same caching your android device does to speed up application and system boot times. In this case, CCache will help build Resurrection Remix faster than standard build times (Able to cut-down 50% of time taken to build).
+- CCache is a method of utilizing a specified storage space to speed up building. It can be referred to as the same caching your android device does to speed up application and system boot times. In this case, CCache will help build Droid OS faster than standard build times (Able to cut-down 50% of time taken to build).
 - To set up CCache, follow the following:
 
 
@@ -115,5 +111,5 @@ If you found it, then congratulations! If you didn't, try retrying the build pro
 After doing so, redo everything stated from the Building Section.
 
 ##### For those who successfully built Droid OS
-Well, Congratulations on your victory! Now, you have a .zip file that flashable to your device! Share it to the internet as you wish but be sure to contribute back and also give credits to the Resurrection Remix Team and its contributors!Also keep in mind that if an official build exists for a device, no unofficial builds should be released publicly. Do come and build Resurrection Remix another time as source code is routinely being improved upon. If you wish to contibute, feel free to make a pull request to the Droidvn-Team! See you again builder!
+Well, Congratulations on your victory! Now, you have a .zip file that flashable to your device! Share it to the internet as you wish but be sure to contribute back and also give credits to the Droid OS Team and its contributors!Also keep in mind that if an official build exists for a device, no unofficial builds should be released publicly. Do come and build Droid OS another time as source code is routinely being improved upon. If you wish to contibute, feel free to make a pull request to the Droidvn-Team! See you again builder!
 
