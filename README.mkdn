@@ -63,8 +63,7 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 
 ##### Initializing the Droid OS repo and downloading the manifest
 
-      $  repo init -u https://github.com/renosang/platform_manifests
-
+      $  repo init -u https://github.com/renosang/platform_manifests.git -b mm
 ##### Syncing the source
 [Hint: This might take a long time as the source is ~20GB]
 
