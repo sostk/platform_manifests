@@ -563,7 +563,7 @@
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
-  <project path="device/samsung/kyleprods" name="Sandpox/android_device_samsung_kyleprods-1" remote="github" revision="cm-13.0" />
+  <project path="device/samsung/kyleprods" name="Sandpox/android_device_samsung_kyleprods" remote="github" revision="cm-13.0" />
   <project path="vendor/samsung/kyleproxx" name="sostk/android_vendor_samsung_kyleproxx" remote="github" revision="master" />
   <project path="kernel/samsung/kyleproxx" name="sostk/android_kernel_samsung_kyleproxx" remote="github" revision="cm-13.0" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="cm-13.0" />
